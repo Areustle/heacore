@@ -1,0 +1,3 @@
+[submodule "cfitsio"]
+	path = cfitsio
+	url = git@github.com:Areustle/cfitsio.git
