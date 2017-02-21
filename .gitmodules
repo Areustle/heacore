@@ -6,3 +6,6 @@
 	path = readline
 	url = git://git.savannah.gnu.org/readline.git
     fetchRecurseSubmodules
+[submodule "wcslib"]
+	path = wcslib
+	url = git://anonscm.debian.org/debian-astro/packages/wcslib.git
